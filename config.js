@@ -12,5 +12,5 @@ const CONFIG = {
     reply: 'Dạ 😐',
     mess: 'Lớn rồi bớt chơi game tập trung vào công việc đi em nhé😁',
     messDesc: 'Tới giờ làm rồi ,zô chốt đơn đi e😊',
-    btnAccept: 'Dạ 😐',
+    btnAccept: 'Dạ😐',
     messLink: 'dvmobifone.com/mng2/index.html'}
