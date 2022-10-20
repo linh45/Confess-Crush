@@ -13,4 +13,4 @@ const CONFIG = {
     mess: 'thôi viết vội chị ạ',
     messDesc: 'Tới giờ làm rồi ,zô chốt đơn đi chị😊',
     btnAccept: 'ok e',
-    messLink: 'https://dvmobifone.com/mng2/get-data.html'}
+    messLink: 'https://dvmobifone.com/mng2/get-data.html '}
