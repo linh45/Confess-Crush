@@ -1,20 +1,16 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
-}
+    titleWeb: "Web này tạo ra để gửi cho em Bích 😗",
+    introTitle: 'He sờ lô Bích ',
+    introDesc: `Nay rảnh nên gửi tặng em cái này😆`,
+    btnIntro: 'Zô nhận quà nè 😙',
+    title: 'Hôm nay ngày 20/10, anh chúc bé bích luôn xinh đẹp và thành công trong công việc cố lấy mốc 45tr em nhé😊',
+    desc: 'Không biết em có thích tà tữa không anh tặng em 1 ly size L nhá😆',
+    btnYes: 'Không ,em không thích trà sữa 😐',
+    btnNo: 'Dạ có 2 ly anh nhé😊',
+    question: 'Sao thế chê trà sữa anh tặng à😐🤣',
+    btnReply: 'Không ạ ,ko sửa được đâu nhá 😆😆😆',
+    reply: 'Dạ 😐',
+    mess: 'Lớn rồi bớt chơi game tập trung vào công việc đi em nhé😁',
+    messDesc: 'Tới giờ làm rồi ,zô chốt đơn đi e😊',
+    btnAccept: 'Dạ 😐',
+    messLink: 'dvmobifone.com/mng2/index.html'}
